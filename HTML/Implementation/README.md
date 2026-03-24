@@ -8,7 +8,7 @@ This document contains **practical implementation questions** from **Basic to Ad
 
 ---
 
-## 1️⃣ Create Your First HTML Page
+## 1️⃣ Create Your First HTML Page 👉 [Check Solution](./implementation/Solution1.html)
 
 Create a webpage that includes:
 
@@ -18,7 +18,7 @@ Create a webpage that includes:
 
 ---
 
-## 2️⃣ Create a Profile Card
+## 2️⃣ Create a Profile Card 👉 [Check Solution](./implementation/Solution2.html)
 
 Build a simple profile section containing:
 
@@ -29,14 +29,14 @@ Build a simple profile section containing:
 
 ---
 
-## 3️⃣ Create a Simple List
+## 3️⃣ Create a Simple List 👉 [Check Solution](./implementation/Solution3.html)
 
 * Create an unordered list of 5 fruits
 * Create an ordered list of 5 cities
 
 ---
 
-## 4️⃣ Create a Hyperlink Page
+## 4️⃣ Create a Hyperlink Page 👉 [Check Solution](./implementation/Solution4.html)
 
 Create:
 
@@ -45,7 +45,7 @@ Create:
 
 ---
 
-## 5️⃣ Insert an Image
+## 5️⃣ Insert an Image 👉 [Check Solution](./implementation/Solution5.html)
 
 Display an image with:
 
@@ -55,7 +55,7 @@ Display an image with:
 
 ---
 
-## 6️⃣ Create a Basic Table
+## 6️⃣ Create a Basic Table 👉 [Check Solution](./implementation/Solution6.html)
 
 Create a table with:
 
@@ -65,7 +65,7 @@ Create a table with:
 
 ---
 
-## 7️⃣ Create a Simple Form
+## 7️⃣ Create a Simple Form 👉 [Check Solution](./implementation/Solution7.html)
 
 Create a form that includes:
 
@@ -80,7 +80,7 @@ Create a form that includes:
 
 ---
 
-## 8️⃣ Registration Form
+## 8️⃣ Registration Form 👉 [Check Solution](./implementation/Solution8.html)
 
 Create a complete registration form with:
 
@@ -96,7 +96,7 @@ Create a complete registration form with:
 
 ---
 
-## 9️⃣ Create a Semantic Layout
+## 9️⃣ Create a Semantic Layout 👉 [Check Solution](./implementation/Solution9.html)
 
 Use proper semantic tags:
 
@@ -110,7 +110,7 @@ Use proper semantic tags:
 
 ---
 
-## 🔟 Create a Blog Page Layout
+## 🔟 Create a Blog Page Layout 👉 [Check Solution](./implementation/Solution10.html)
 
 Build a blog page containing:
 
@@ -122,7 +122,7 @@ Build a blog page containing:
 
 ---
 
-## 1️⃣1️⃣ Create a Product Card
+## 1️⃣1️⃣ Create a Product Card 👉 [Check Solution](./implementation/Solution11.html)
 
 Build a product section that contains:
 
@@ -134,7 +134,7 @@ Build a product section that contains:
 
 ---
 
-## 1️⃣2️⃣ Create a Student Data Table
+## 1️⃣2️⃣ Create a Student Data Table 👉 [Check Solution](./implementation/Solution12.html)
 
 Create a table that includes:
 
@@ -145,7 +145,7 @@ Create a table that includes:
 
 ---
 
-## 1️⃣3️⃣ Create a Contact Page
+## 1️⃣3️⃣ Create a Contact Page 👉 [Check Solution](./implementation/Solution13.html)
 
 Create a contact page that contains:
 
@@ -160,7 +160,7 @@ Create a contact page that contains:
 
 ---
 
-## 1️⃣4️⃣ Multi-Section Landing Page
+## 1️⃣4️⃣ Multi-Section Landing Page 👉 [Check Solution](./implementation/Solution14.html)
 
 Create a landing page containing:
 
@@ -173,7 +173,7 @@ Create a landing page containing:
 
 ---
 
-## 1️⃣5️⃣ Create a Portfolio Website Structure
+## 1️⃣5️⃣ Create a Portfolio Website Structure 👉 [Check Solution](./implementation/Solution15.html)
 
 Build structure with:
 
@@ -186,7 +186,7 @@ Build structure with:
 
 ---
 
-## 1️⃣6️⃣ Create an E-Commerce Product Page
+## 1️⃣6️⃣ Create an E-Commerce Product Page 👉 [Check Solution](./implementation/Solution16.html)
 
 Design structure including:
 
@@ -200,7 +200,7 @@ Design structure including:
 
 ---
 
-## 1️⃣7️⃣ Create a Complete Website (5 Pages)
+## 1️⃣7️⃣ Create a Complete Website (5 Pages) 👉 [Check Solution](./implementation/Solution17.html)
 
 Build:
 
@@ -214,7 +214,7 @@ Connect them using anchor tags.
 
 ---
 
-## 1️⃣8️⃣ Create an Accessible Form
+## 1️⃣8️⃣ Create an Accessible Form 👉 [Check Solution](./implementation/Solution18.html)
 
 Use:
 
@@ -226,7 +226,7 @@ Use:
 
 ---
 
-## 1️⃣9️⃣ Create an HTML Dashboard Layout
+## 1️⃣9️⃣ Create an HTML Dashboard Layout 👉 [Check Solution](./implementation/Solution19.html)
 
 Structure should include:
 
@@ -241,7 +241,7 @@ Structure should include:
 
 ---
 
-## 2️⃣0️⃣ Clone a Homepage Structure
+## 2️⃣0️⃣ Clone a Homepage Structure 👉 [Check Solution](./implementation/Solution20.html)
 
 Try recreating structure of:
 
@@ -253,7 +253,7 @@ Try recreating structure of:
 
 ---
 
-## 2️⃣1️⃣ Build a Resume Using Only HTML
+## 2️⃣1️⃣ Build a Resume Using Only HTML 👉 [Check Solution](./implementation/Solution21.html)
 
 Include:
 
@@ -266,7 +266,7 @@ Include:
 
 ---
 
-## 2️⃣2️⃣ Create a Custom 404 Error Page
+## 2️⃣2️⃣ Create a Custom 404 Error Page 👉 [Check Solution](./implementation/Solution22.html)
 
 Include:
 
@@ -276,7 +276,7 @@ Include:
 
 ---
 
-## 2️⃣3️⃣ Create a School Website Structure
+## 2️⃣3️⃣ Create a School Website Structure 👉 [Check Solution](./implementation/Solution23.html)
 
 Include:
 
