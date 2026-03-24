@@ -1,10 +1,3 @@
-
-# 📘 HTML Implementation Questions (Beginner → Advanced)
-
-You can copy this directly into your GitHub README file.
-
----
-
 # 📘 HTML Implementation Practice Questions
 
 This document contains **practical implementation questions** from **Basic to Advanced level** for mastering HTML.
